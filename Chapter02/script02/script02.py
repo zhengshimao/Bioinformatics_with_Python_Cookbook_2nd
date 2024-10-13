@@ -82,9 +82,9 @@ for ref in refs:
 ## VI 是文章的卷 volume 
 # VI: 5
 ## 如果有期（issue），则用IP 表示
-## 文章发表日期
+## DP 表示文章发表日期
 # DP: 2014 Nov 5
-## TI为文章DOI
+## TI为文章Title
 # TI: Versatile control of Plasmodium falciparum gene expression with an inducible protein-RNA interaction.
 ## PG 是文章的页码，对于NC是指文章编号（Article number）
 # PG: 5329
@@ -100,19 +100,19 @@ for ref in refs:
 # LA: ['eng']
 # SI: ['GENBANK/KM288848', 'GENBANK/KM288849', 'GENBANK/KM288850', 'GENBANK/KM288851', 'GENBANK/KM288852', 'GENBANK/KM288853', 'GENBANK/KM288854', 'GENBANK/KM288855', 'GENBANK/KM288856', 'GENBANK/KM288857', 'GENBANK/KM288858', 'GENBANK/KM288859', 'GENBANK/KM288860', 'GENBANK/KM288861', 'GENBANK/KM288862', 'GENBANK/KM288863', 'GENBANK/KM288864', 'GENBANK/KM288865', 'GENBANK/KM288866', 'GENBANK/KM288867']
 # GR: ['1DP2OD007124/OD/NIH HHS/United States', 'DP2 OD007124/OD/NIH HHS/United States', '5-T32-ES007020/ES/NIEHS NIH HHS/United States', 'T32 GM008334/GM/NIGMS NIH HHS/United States', 'T32 ES007020/ES/NIEHS NIH HHS/United States', 'P30 ES002109/ES/NIEHS NIH HHS/United States', '5-T32-GM08334/GM/NIGMS NIH HHS/United States']
-## PT应该是指文章类型
+## PT 应该是指文章类型
 # PT: ['Journal Article', 'Research Support, N.I.H., Extramural', "Research Support, Non-U.S. Gov't"]
 # DEP: 20141105
 # PL: England
-## 发表期刊简写
+## TA 表示发表期刊简写
 # TA: Nat Commun
-## 发表期刊全称
+## JT 表示发表期刊全称
 # JT: Nature communications
 # JID: 101528555
 # RN: ['0 (Aptamers, Nucleotide)']
 # SB: IM
 # MH: ['Aptamers, Nucleotide', 'Base Sequence', '*Gene Expression Regulation', '*Genetic Techniques', 'Molecular Sequence Data', 'Plasmodium falciparum/genetics/*metabolism']
-## 文章在Pubmed Central的编号
+## PMC 为文章在Pubmed Central的编号
 # PMC: PMC4223869
 # MID: ['NIHMS630149']
 # COIS: ['COMPETING FINANCIAL INTERESTS S.J.G and J.C.N. are inventors of the genetically', 'encoded protein-binding RNA aptamer technology described and have filed patent', 'applications with other co-inventors.']
@@ -142,7 +142,3 @@ for ref in refs:
                 print('%s: %s' % (k,v))
                 print('%s: %s' % (k,v), file= f_hdl2)
         f_hdl2.close()
-
-
-
-
