@@ -1,0 +1,37 @@
+PMID: 39380220
+OWN: NLM
+STAT: MEDLINE
+DCOM: 20241009
+LR: 20241011
+IS: 2589-451X (Electronic) 0255-2922 (Print) 0255-2922 (Linking)
+VI: 44
+IP: 5
+DP: 2024 Oct
+TI: Actinidia chinensis polysaccharide interferes with the epithelial-mesenchymal transition of gastric cancer by regulating the nuclear transcription factor-kappaB pathway to inhibit invasion and metastasis.
+PG: 896-905
+LID: 10.19852/j.cnki.jtcm.20240806.001 [doi]
+AB: OBJECTIVE: To investigate the mechanisms of the effect of Actinidia chinensis polysaccharide (ACPS) on the invasion and metastasis of gastric cancer cells. METHODS: BGC-823-Luc gastric cancer cells stably transfected with a luciferase gene were used to establish an insitutransplanted tumor mouse model. A live mouse imaging system was used to observe tumor growth, and hematoxylin and eosin staining was applied to analyze tissue histopathology. Transwell and scratch wound assays were performed to examine the invasive and migratory ability of BGC-823 cells. Immunofluorescence, confocal microscopy, immunohistochemistry, and Western blot assays were used to analyze the expressions of the nuclear transcription factor-kappaB (NF-kappaB) signaling pathway and epithelial-mesenchymal transition (EMT)-related proteins. RESULTS: ACPS significantly inhibited the growth of subcutaneously transplanted BGC-823-Luc gastric cancer tumors in nude mice and reduced inflammatory cell infiltration in tumor tissues. ACPS inhibited Epidermal Growth Factor-induced invasion, migration, and morphological changes in the cytoskeleton of BGC-823 cells. ACPS inhibited gastric cancer EMT and decreased the expression of matrix metallopeptidase 9, N-cadherin and p-NF-kappaB p65 in transplanted tumor tissues. ACPS inhibited the expression of matrix metalloproteinases and vascular adhesion factors in BGC-823 cells, promoted p65-NF-kappaB nuclear translocation, and regulated proteins associated with the NF-kappaB p65 pathway. CONCLUSIONS: ACPS inhibited gastric cancer invasion and metastasis both in vivo and in vitro, which evidenced the inhibition of gastric cancer EMT viaregulating the NF-kappaB inflammatory pathway.
+FAU: ['Guangshun, Zhang', 'Xiaonan, X U', 'Chuyun, X U', 'Guanghui, Liao', 'Hao, X U', 'Zhaohuan, Lou', 'Guangji, Zhang']
+AU: ['Guangshun Z', 'Xiaonan XU', 'Chuyun XU', 'Guanghui L', 'Hao XU', 'Zhaohuan L', 'Guangji Z']
+AD: ['School of Pharmaceutical Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, China.', '2 Key Labortary of Blood-stasis-toxin Syndrome of Zhejiang Province, Hangzhou 310053, China.', 'School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, China.', '4 Key Labortary of Blood-stasis-toxin Syndrome of Zhejiang Province, Hangzhou 310053, China.', '5 Traditional Chinese Medicine "Preventing Disease" Wisdom Health Project Research Center of Zhejiang, Hangzhou 310053, China.', 'the First Affiliated Hospital of Zhejiang Chinese Medical University, Hangzhou 310053, China.', 'School of Pharmaceutical Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, China.', '2 Key Labortary of Blood-stasis-toxin Syndrome of Zhejiang Province, Hangzhou 310053, China.', 'School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, China.', '4 Key Labortary of Blood-stasis-toxin Syndrome of Zhejiang Province, Hangzhou 310053, China.', '5 Traditional Chinese Medicine "Preventing Disease" Wisdom Health Project Research Center of Zhejiang, Hangzhou 310053, China.', 'School of Pharmaceutical Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, China.', '2 Key Labortary of Blood-stasis-toxin Syndrome of Zhejiang Province, Hangzhou 310053, China.', 'School of Basic Medical Sciences, Zhejiang Chinese Medical University, Hangzhou 310053, China.', '4 Key Labortary of Blood-stasis-toxin Syndrome of Zhejiang Province, Hangzhou 310053, China.', '5 Traditional Chinese Medicine "Preventing Disease" Wisdom Health Project Research Center of Zhejiang, Hangzhou 310053, China.']
+LA: ['eng']
+GR: ['2019YFC1708700/Innovative Research and Application based on the Core Etiology and', 'Pathogenesis of Different Diseases and the Same Treatment Plan based on "Blood', 'Stasis, Toxin and Depression"/', '2019YFC1708701/Innovative Research and Application based on the Core Etiology and', 'Pathogenesis of Different Diseases and the Same Treatment Plan based on "Blood', 'Stasis, Toxin and Depression"/', '82030119/Biological Basic Research on Gastric Cancer-Carcinoma Transformation and', 'Intervention by Removing Blood Stasis and Detoxification Based on the', 'Pathogenesis Theory of Blood Stasis and Toxin Interaction/', '81874455/Study on the Mechanism of Tanshinone Combined with Arsenic Trioxide', 'Stasis and Poison to Regulate Macrophage Polarization and Improve the', 'Inflammatory Microenvironment of Liver Cancer/', '2019C03072/Research on Innovative Traditional Chinese Medicine Drugs-preclinical', 'Research on Anti-lung Cancer of Diterpenoid Tanshinone/', '2020ZX005/Study on the Diagnosis and Treatment Program of Damp-heat Accumulation', 'Type Colorectal Cancer Based on Correlation Analysis of Intestinal Microbiota-', 'Traditional Chinese Medicine Syndrome Type/', '2019ZZ006/Research on Quantitative Characterization of Preparation Process and', 'Quality Standard Control Specification of Traditional Chinese Medicine Paste (Gao', 'Zi Ji)/', '81273904/Study on the Molecular Mechanism of Actinidia Chinensis Polysaccharide', 'Interfering with Epithelial Mesenchymal Transformation in Gastric Cancer by', 'Inhibiting Nuclear Factor-kappaB Pathway/', '2022JKZKTS16/Study on the Mechanism of the Effective Components of Tengli Root', 'Regulating Tumor-associated Fibroblasts to Improve the Tumor Microenvironment and', 'Prevent the Metastasis of Gastric Cancer/']
+PT: ['Journal Article']
+PL: China
+TA: J Tradit Chin Med
+JT: Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan
+JID: 8211546
+RN: ['0 (Polysaccharides)', '0 (NF-kappa B)', '0 (Drugs, Chinese Herbal)']
+SB: IM
+MH: ['*Stomach Neoplasms/drug therapy/genetics/metabolism/pathology', 'Animals', 'Humans', '*Epithelial-Mesenchymal Transition/drug effects', '*Polysaccharides/pharmacology/administration & dosage', '*NF-kappa B/metabolism/genetics', 'Mice', 'Cell Line, Tumor', '*Mice, Nude', '*Neoplasm Metastasis', '*Signal Transduction/drug effects', '*Actinidia/chemistry', 'Mice, Inbred BALB C', 'Neoplasm Invasiveness', 'Male', 'Drugs, Chinese Herbal/administration & dosage/pharmacology', 'Cell Movement/drug effects']
+PMC: PMC11462538
+OTO: ['NOTNLM']
+OT: ['Actinidia chinensis polysaccharide', 'NF-kappa B', 'epithelial-mesenchymal transition', 'invasion', 'neoplasm metastasis', 'signal transduction', 'stomach neoplasms']
+EDAT: 2024/10/09 10:18
+MHDA: 2024/10/09 10:19
+PMCR: ['2024/10/15']
+CRDT: ['2024/10/09 01:24']
+PHST: ['2024/10/15 00:00 [pmc-release]', '2024/10/09 10:19 [medline]', '2024/10/09 10:18 [pubmed]', '2024/10/09 01:24 [entrez]']
+AID: ['1727164022645-1307337145 [pii]', '0255-2922-44-5-896 [pii]', '10.19852/j.cnki.jtcm.20240806.001 [doi]']
+PST: ppublish
+SO: J Tradit Chin Med. 2024 Oct;44(5):896-905. doi: 10.19852/j.cnki.jtcm.20240806.001.
