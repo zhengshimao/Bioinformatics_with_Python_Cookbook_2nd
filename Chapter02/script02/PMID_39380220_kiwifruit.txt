@@ -2,7 +2,7 @@ PMID: 39380220
 OWN: NLM
 STAT: MEDLINE
 DCOM: 20241009
-LR: 20241011
+LR: 20241016
 IS: 2589-451X (Electronic) 0255-2922 (Print) 0255-2922 (Linking)
 VI: 44
 IP: 5
@@ -31,7 +31,7 @@ EDAT: 2024/10/09 10:18
 MHDA: 2024/10/09 10:19
 PMCR: ['2024/10/15']
 CRDT: ['2024/10/09 01:24']
-PHST: ['2024/10/15 00:00 [pmc-release]', '2024/10/09 10:19 [medline]', '2024/10/09 10:18 [pubmed]', '2024/10/09 01:24 [entrez]']
+PHST: ['2024/10/09 10:19 [medline]', '2024/10/09 10:18 [pubmed]', '2024/10/09 01:24 [entrez]', '2024/10/15 00:00 [pmc-release]']
 AID: ['1727164022645-1307337145 [pii]', '0255-2922-44-5-896 [pii]', '10.19852/j.cnki.jtcm.20240806.001 [doi]']
 PST: ppublish
 SO: J Tradit Chin Med. 2024 Oct;44(5):896-905. doi: 10.19852/j.cnki.jtcm.20240806.001.
